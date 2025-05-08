@@ -22,4 +22,3 @@ Contents
    api
    soc
    proxy
-   soc
