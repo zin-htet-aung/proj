@@ -10,5 +10,5 @@ Welcome to the SOC Level 1/Level 2 Knowledge Base! This documentation is intende
    :caption: Table of Contents
    :hidden:
 
-   soc
-   logsource
+   api
+   usage
