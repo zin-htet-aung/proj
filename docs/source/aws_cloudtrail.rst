@@ -1,5 +1,5 @@
 AWS CloudTrail Logs
-==================
+===================
 
 For tracking actions taken within your AWS environment.
 
@@ -118,19 +118,19 @@ CloudTrail logs are invaluable for SOC analysts in various scenarios. Below are 
 * **Unusual Login Activity:** Monitor login attempts from unusual IP addresses or geographic locations.
 
 4.2. Monitoring Resource Changes
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * **Resource Creation/Deletion:** Track the creation or deletion of critical resources (e.g., EC2 instances, S3 buckets, IAM roles).
 * **Configuration Changes:** Detect changes to security groups, network ACLs, or IAM policies that could expose sensitive data.
 
 4.3. Investigating Security Incidents
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * **Incident Response:** Use CloudTrail logs to trace the source of an incident by correlating timestamps, user identities, and API actions.
 * **Forensic Analysis:** Analyze logs to determine what actions were taken before, during, and after a security breach.
 
 4.4. Threat Hunting
-~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~
 
 * **Proactive Threat Detection:** Search for indicators of compromise (IOCs) such as unusual API patterns, unexpected resource modifications, or high-frequency API calls.
 * **Correlation with Other Logs:** Combine CloudTrail logs with VPC Flow Logs, GuardDuty findings, or CloudWatch Logs to identify advanced threats.
