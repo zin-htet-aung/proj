@@ -1,10 +1,10 @@
-Welcome to Lumache's documentation!
-===================================
+KB Project
+==========
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+.. note: SOC L1/L2 Knowledge Base Project
+
+Welcome to the SOC Level 1/Level 2 Knowledge Base! This documentation is intended to guide SOC analysts in handling incidents, performing investigations, and following standard operating procedures.
+
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
