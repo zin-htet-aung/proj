@@ -5,20 +5,10 @@ KB Project
 
 Welcome to the SOC Level 1/Level 2 Knowledge Base! This documentation is intended to guide SOC analysts in handling incidents, performing investigations, and following standard operating procedures.
 
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
-
-.. note::
-
-   This project is under active development.
-
-Contents
---------
-
 .. toctree::
+   :maxdepth: 3
+   :caption: Table of Contents
+   :hidden:
 
-   usage
-   api
-   apache_access
-  
+   soc
+   logsource
