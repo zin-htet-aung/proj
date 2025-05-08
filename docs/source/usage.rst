@@ -8,7 +8,4 @@ This section provides links to various log source documentation.
    :caption: Log Sources:
 
   waf
-  apache_access
-  nginx_access
-  aws_cloudtrail
-  proxy
+  
